@@ -10,6 +10,7 @@ public class GitHunTest {
         System.out.println("Ara");
         System.out.println("ARA ROX");
         System.out.println("Tharushan");
+        System.out.println("Hi girls!");
     }
     
 }

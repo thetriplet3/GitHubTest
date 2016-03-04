@@ -8,6 +8,7 @@ public class GitHunTest {
         System.out.println("Hello GitHub!!");
         System.out.println("Update 1");
         System.out.println("Ara");
+        System.out.println("Tharushan");
     }
     
 }

@@ -17,6 +17,7 @@ public class GitHunTest {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello GitHub!!");
+        System.out.println("Update 1");
     }
     
 }
